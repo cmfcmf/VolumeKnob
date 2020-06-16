@@ -1,4 +1,4 @@
-// Based on the Oversized Me dia Control Volume Knob project from Prusa
+// Based on the Oversized Media Control Volume Knob project from Prusa Research.
 // https://blog.prusaprinters.org/3d-print-an-oversized-media-control-volume-knob-arduino-basics_30184/
 
 #include <ClickEncoder.h>
