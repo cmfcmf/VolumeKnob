@@ -56,7 +56,7 @@ void loop() {
         mode = !mode;
       }
   
-      int16_t fullStepValue = realValue / 2;
+      int16_t fullStepValue = realValue / 4;
       static int16_t fullStepLast = 42;
  
       if (mode == MODE_VOLUME) {
